@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fiverchat/static/css/main.883116f8.css",
+    "main.js": "/fiverchat/static/js/main.cc6844e8.js",
+    "static/js/787.8d40af1f.chunk.js": "/fiverchat/static/js/787.8d40af1f.chunk.js",
+    "index.html": "/fiverchat/index.html",
+    "main.883116f8.css.map": "/fiverchat/static/css/main.883116f8.css.map",
+    "main.cc6844e8.js.map": "/fiverchat/static/js/main.cc6844e8.js.map",
+    "787.8d40af1f.chunk.js.map": "/fiverchat/static/js/787.8d40af1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.883116f8.css",
+    "static/js/main.cc6844e8.js"
+  ]
+}
